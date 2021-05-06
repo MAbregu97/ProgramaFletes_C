@@ -23,7 +23,7 @@ Utilizar función BusquedaVe
 
 3.1.) Un listado donde figure la recaudación de cada vehiculo en cada día.
 
-                  LISTADO DE RECAUDACION
+                               LISTADO DE RECAUDACION
 Patente vehiculo /     DIA 1     2       3 .......................... 28     29      30
 BS123AA                xx.xx    x.xx    xx.xx                        x.xx   x.xx    xx.xx
 CJU236                 xx.xx    x.xx    x.xx                         xx.xx  xx.xx   xx.xx
